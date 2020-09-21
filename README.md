@@ -4,10 +4,10 @@
 
 
 ### Current Topics
-  -   **Datacamp DataScience with Python** (__26th August 2020 - 30th September 2020__)
-  -   **fast.ai** (__11th September 2020 - __)
-  -   **NLP CS224U** (__24th September 2020 - __)
-  -   **B.Sc. IIT Chennai** (__27th September 2020 - __)
+  -   **Datacamp DataScience with Python** (26th August 2020 - 30th September 2020)
+  -   **fast.ai** (11th September 2020 - )
+  -   **NLP CS224U** (24th September 2020 - )
+  -   **B.Sc. IIT Chennai** (27th September 2020 - )
   -   *Datacamp Data Analyst* ()
   -   *Datacamp Data Science for Everyone* ()
   -   *Datacamp Machine Learning Scientis* ()
